@@ -1,0 +1,99 @@
+{
+  "main": {
+    "name": "Drishti Peshwani",
+    "occupation": "Spohomore at IIT Madras",
+    "description": "",
+    "image": "profilepic.jpeg",
+    "bio": "Hi there ! I am Drishti , currently a sophomore studying Mechanical Engineering at IIT Madras , top educational institute of the country.I am highly interested in programming and always looking forward to learning new skills and improve myself.I have participated in various hackathons and coding competitions.I love to share my knowledge with others and coach them efficiently.",
+    "contactmessage": "Get in touch with me !",
+    "email": "drishtipeshwani09@gmail.com",
+    "phone": "+919518599566",
+    "address": {
+      "Address": "Plot No.162 , Akshay Apartment",
+      "city": "Pune",
+      "state": "Maharashtra",
+      "zip": "411017"
+    },
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/drishtipeshwani",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/drishti-peshwani-174861196",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/thecodingsnippets/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/drishtipeshwani",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Programming Language Proficiency",
+    "education": [
+      {
+        "school": "Indian Institute of Technology Madras",
+        "degree": "B.Tech , Mechanical Engineering",
+        "graduated": "July 2023",
+        "description": ""
+      }
+    ],
+    "work": [
+      {
+        "company": "Resonect",
+        "title": "Web Developer",
+        "years": "May 2020 - Present",
+        "description": ""
+      }
+    ],
+    "skills": [
+      {
+        "name": "C++",
+        "level": "80%"
+      },
+      {
+        "name": "Python",
+        "level": "70%"
+      },
+      {
+        "name": "Git",
+        "level": "70%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "60%"
+      },
+      {
+        "name": "Web Development",
+        "level": "70%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Blog App (Flask)",
+        "category": "",
+        "image": "Blog.png",
+        "url": "https://github.com/drishtipeshwani/Flask-Blog-App"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Drishti is very hardworking and dedicated person.She is always motivated to learn new things and help others",
+        "user": "Anjali"
+      }
+    ]
+  }
+}
