@@ -4,7 +4,7 @@
     "occupation": "Spohomore at IIT Madras",
     "description": "",
     "image": "profilepic.jpeg",
-    "bio": "Hi there ! I am Drishti , currently a sophomore studying Mechanical Engineering at IIT Madras , top educational institute of the country.I am highly interested in programming and always looking forward to learning new skills and improve myself.I have participated in various hackathons and coding competitions.I love to share my knowledge with others and coach them efficiently.",
+    "bio": "Hi there ! I am Drishti , currently a sophomore studying Mechanical Engineering at IIT Madras , top educational institute of the country.I am highly interested in programming and always looking forward to learning new skills and improving myself.I have participated in various hackathons and coding competitions.I love to share my knowledge with others and coach them efficiently.",
     "contactmessage": "Get in touch with me !",
     "email": "drishtipeshwani09@gmail.com",
     "phone": "+919518599566",
@@ -51,8 +51,14 @@
       {
         "company": "Resonect",
         "title": "Web Developer",
-        "years": "May 2020 - Present",
-        "description": ""
+        "years": "May 2020 - July 2020",
+        "description": "Resonect is a IIT-Madras based startup. I worked as a React developer in the team."
+      },
+      {
+        "company": "Girl Script",
+        "title": "Participant",
+        "years": "Feb 2020 - Present",
+        "description": "Girl Script Foundation organises an open source program for the duration of 3 months where we work on a project.This year I have been selected as the participant and will be working on 3-month long project"
       }
     ],
     "skills": [
@@ -73,7 +79,7 @@
         "level": "60%"
       },
       {
-        "name": "Web Development",
+        "name": "Reactjs",
         "level": "70%"
       }
     ]
@@ -85,6 +91,12 @@
         "category": "",
         "image": "Blog.png",
         "url": "https://github.com/drishtipeshwani/Flask-Blog-App"
+      },
+      {
+        "title": "Netflix-Clone",
+        "category": "",
+        "image": "Netflix.png",
+        "url": "https://github.com/drishtipeshwani/Netflix_clone"
       }
     ]
   },
