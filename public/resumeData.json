@@ -1,85 +1,71 @@
 {
   "main": {
-    "name": "Drishti Peshwani",
-    "occupation": "Spohomore at IIT Madras",
+    "name": "Amir Muhammad",
+    "occupation": "Cairo, Egypt",
     "description": "",
     "image": "profilepic.jpeg",
-    "bio": "Hi there ! I am Drishti , currently a sophomore studying Mechanical Engineering at IIT Madras.I am highly interested in programming and always looking forward to learning new skills and improving myself.I have participated in various hackathons and coding competitions.I love to share my knowledge with others and coach them efficiently.",
+    "bio": "Hello, I'm Amir I'm a high school student. In childhood, I used to watch online courses and bootcamps for programming and especially for javascript. I love to share my knowledge with others and coach them efficiently.",
     "contactmessage": "Get in touch with me !",
-    "email": "drishtipeshwani09@gmail.com",
-    "phone": "+919518599566",
+    "email": "ameermohamed2500@gmail.com",
+    "phone": "+201099461559",
     "address": {
-      "Address": "Plot No.162 , Akshay Apartment",
-      "city": "Pune",
-      "state": "Maharashtra",
-      "zip": "411017"
+      "Address": "35A mostafa sfout, mostafa fahmy",
+      "city": "Helwan",
+      "state": "Cairo",
+      "zip": "11722"
     },
     "social": [
       {
         "name": "facebook",
-        "url": "https://www.facebook.com/drishtipeshwani",
+        "url": "https://www.facebook.com/sconderg",
         "className": "fa fa-facebook"
       },
       {
         "name": "linkedin",
-        "url": "https://www.linkedin.com/in/drishti-peshwani-174861196",
+        "url": "https://www.linkedin.com/in/amir-muhammad-79a373208/",
         "className": "fa fa-linkedin"
       },
       {
         "name": "instagram",
-        "url": "https://www.instagram.com/thecodingsnippets/",
+        "url": "https://www.instagram.com/sconderg",
         "className": "fa fa-instagram"
       },
       {
         "name": "github",
-        "url": "https://github.com/drishtipeshwani",
+        "url": "https://github.com/sconderg",
         "className": "fa fa-github"
       }
     ]
   },
   "resume": {
-    "skillmessage": "My Programming Language Proficiency",
+    "skillmessage": "My Scripting Language Proficiency",
     "education": [
       {
-        "school": "Indian Institute of Technology Madras",
-        "degree": "B.Tech , Mechanical Engineering",
-        "graduated": "July 2023",
+        "school": "Hafez ibrahem language school",
+        "degree": "Still a high school student",
+        "graduated": "not yet",
         "description": ""
-      }
-    ],
-    "work": [
-      {
-        "company": "Resonect",
-        "title": "Web Developer",
-        "years": "May 2020 - July 2020",
-        "description": "Resonect is a IIT-Madras based startup. I worked as a React developer in the team."
-      },
-      {
-        "company": "Girl Script",
-        "title": "Participant",
-        "years": "Feb 2020 - Present",
-        "description": "Girl Script Foundation organises an open source program for the duration of 3 months where we work on a project.This year I have been selected as the participant and will be working on 3-month long project"
       }
     ],
     "skills": [
       {
-        "name": "C++",
+        "name": "HTML",
+        "level": "95%"
+      },
+      {
+        "name": "CSS",
+        "level": "85%"
+      },
+      {
+        "name": "JavaScript",
         "level": "80%"
       },
       {
-        "name": "Python",
+        "name": "Reactjs",
         "level": "70%"
       },
       {
         "name": "Git",
-        "level": "70%"
-      },
-      {
-        "name": "JavaScript",
-        "level": "60%"
-      },
-      {
-        "name": "Reactjs",
         "level": "70%"
       }
     ]
@@ -87,24 +73,48 @@
   "portfolio": {
     "projects": [
       {
-        "title": "Blog App (Flask)",
-        "category": "",
-        "image": "Blog.png",
-        "url": "https://github.com/drishtipeshwani/Flask-Blog-App"
+        "title": "Responsive Blog",
+        "category": "HTML/CSS",
+        "image": "blog.png",
+        "url": "https://github.com/sconderg/responsive-blog"
+      },
+      {
+        "title": "Slack-Clone",
+        "category": "React-clones",
+        "image": "slack.png",
+        "url": "https://slack-clone-d4d56.web.app/"
+      },
+      {
+        "title": "Weather-App",
+        "category": "React-Apps",
+        "image": "weather-app.png",
+        "url": "https://github.com/sconderg/react-weather-app"
+      },
+      {
+        "title": "Bootstrap-Portfolio",
+        "category": "Bootstrap Landing page",
+        "image": "bootstrap-portfolio.png",
+        "url": "https://github.com/sconderg/bootstrap-portfolio"
+      },
+      {
+        "title": "Photographer-Portfolio",
+        "category": "Bootstrap Landing page",
+        "image": "photographer-portfolio.png",
+        "url": "https://github.com/sconderg/photographer-portfolio"
       },
       {
         "title": "Netflix-Clone",
-        "category": "",
+        "category": "React-clones",
         "image": "Netflix.png",
-        "url": "https://github.com/drishtipeshwani/Netflix_clone"
+        "url": "https://sconder-netflix.web.app/"
       }
     ]
   },
   "testimonials": {
     "testimonials": [
       {
-        "text": "Drishti is very hardworking and dedicated person.She is always motivated to learn new things and help others",
-        "user": "Anjali"
+        "text": "Amir is very hardworking and dedicated person.He is always motivated to learn new things to help others and enhancing his own career.",
+        "user": "Abdelrhman"
       }
     ]
   }

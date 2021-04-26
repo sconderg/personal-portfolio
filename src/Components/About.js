@@ -20,7 +20,7 @@ const About = ({ data }) => {
           <img
             className='profile-pic'
             src={profilepic}
-            alt="Sonny's Profile Pic"
+            alt="Profile Pic"
           />
         </div>
         <div className='nine columns main-col'>
@@ -43,6 +43,7 @@ const About = ({ data }) => {
                 <br />
                 <span>{email}</span>
               </p>
+              <a href="./cv.pdf" class="button">Download CV</a>
             </div>
           </div>
         </div>
