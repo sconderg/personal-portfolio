@@ -107,6 +107,12 @@
         "category": "React-clones",
         "image": "Netflix.png",
         "url": "https://sconder-netflix.web.app/"
+      },
+      {
+        "title": "Hulu-Clone",
+        "category": "React-clones",
+        "image": "hulu.png",
+        "url": "https://sconder-hulu.vercel.app/"
       }
     ]
   },
