@@ -113,6 +113,12 @@
         "category": "React-clones",
         "image": "hulu.png",
         "url": "https://sconder-hulu.vercel.app/"
+      },
+            {
+        "title": "Google-Clone",
+        "category": "React-clones",
+        "image": "google.png",
+        "url": "https://google-clone-virid.vercel.app/"
       }
     ]
   },
