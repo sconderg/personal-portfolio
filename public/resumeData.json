@@ -119,6 +119,12 @@
         "category": "React-clones",
         "image": "google.png",
         "url": "https://google-clone-virid.vercel.app/"
+      },
+      {
+        "title": "WhatsApp-Clone",
+        "category": "React-clones",
+        "image": "whatsapp.png",
+        "url": "https://sconder-whatsapp.vercel.app/"
       }
     ]
   },
