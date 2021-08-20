@@ -27,7 +27,7 @@
       },
       {
         "name": "instagram",
-        "url": "https://www.instagram.com/sconderg",
+        "url": "https://www.instagram.com/amirmuuhammad",
         "className": "fa fa-instagram"
       },
       {
@@ -76,7 +76,7 @@
         "title": "Responsive Blog",
         "category": "HTML/CSS",
         "image": "Blog.png",
-        "url": "https://github.com/sconderg/responsive-blog"
+        "url": "https://sconderg.github.io/responsive-blog/"
       },
       {
         "title": "Slack-Clone",
@@ -85,10 +85,10 @@
         "url": "https://slack-clone-d4d56.web.app/"
       },
       {
-        "title": "Weather-App",
+        "title": "Loopstudios",
         "category": "React-Apps",
-        "image": "weather-app.png",
-        "url": "https://github.com/sconderg/react-weather-app"
+        "image": "loopstudios.png",
+        "url": "https://react-loopstudios-black.vercel.app/"
       },
       {
         "title": "Bootstrap-Portfolio",
@@ -100,7 +100,7 @@
         "title": "Photographer-Portfolio",
         "category": "Bootstrap Landing page",
         "image": "photographer-portfolio.png",
-        "url": "https://github.com/sconderg/photographer-portfolio"
+        "url": "https://sconderg.github.io/photographer-portfolio"
       },
       {
         "title": "Netflix-Clone",
@@ -114,7 +114,7 @@
         "image": "hulu.png",
         "url": "https://sconder-hulu.vercel.app/"
       },
-            {
+      {
         "title": "Google-Clone",
         "category": "React-clones",
         "image": "google.png",
